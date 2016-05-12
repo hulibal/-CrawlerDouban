@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * @author Hzg
- *
- */
-package MutiThread;
